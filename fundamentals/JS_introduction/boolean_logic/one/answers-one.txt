@@ -1,0 +1,11 @@
+  
+  # Parte I
+  
+  1. 2 == "2"        -- es true !coerción
+  2. 2 === 2         -- es true
+  3. 10 % 3          -- da como resto 1
+  4. 10 % 3 === 1    -- por lo tanto esto es true
+  5. true  && false  -- es false
+  6. false || true   -- es true
+  7. true  || false  -- es true
+
