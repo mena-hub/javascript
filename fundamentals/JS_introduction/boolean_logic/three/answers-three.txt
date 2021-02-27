@@ -1,0 +1,8 @@
+
+# Parte III
+
+  1. Falsey es un valor que dentro de un contexto booleano, EJ. if(condition)), 
+     es convertido a false. 
+
+     # En JavaScript: false, null, undefined, "", 0, NaN
+
