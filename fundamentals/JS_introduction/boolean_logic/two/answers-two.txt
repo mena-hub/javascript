@@ -1,0 +1,22 @@
+
+  # Parte II
+  
+  1. If isLearning = true... "Keep it up!".
+  
+  2. TRUE es un valor verdarero (o truthy).
+     Se evalúa como true cuando es pasado a la declaración condicional if y ejecuta 
+     el código dentro del bloque correspondiente.
+
+     ********
+
+  1. La salida por consola es "third".
+
+     !!(firstvariable)                    -- es false
+     !!(firstvariable || secondvariable)  -- es false
+     !!(firstvariable || thirdvariable)   -- es true
+  
+  2. El valor al iniciarse es undefined. 
+  3. No, falsey.   * undefined
+  4. No, falsey.   * string o cadena vacía.
+  5. Sí, truthy.   * menos el 0, los números son truthy.
+
