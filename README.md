@@ -27,15 +27,6 @@ Características en el link.
 
 Podés leer sobre esto [acá.](https://flaviocopes.com/javascript-async-defer/)
 
-
-## Intermediate JavaScript I
----
-
-### En proceso
----
-
-La idea es hacer un commit antes de las dos semanas. 
-
 **NOTA**
 
 Subir el repositorio male sal. Larga historia, aprendiendo a los ponchazos.
