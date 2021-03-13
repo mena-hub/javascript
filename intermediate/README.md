@@ -8,10 +8,11 @@ TOPIC INCLUDE:
 
 * Debugging
 * Nested Data Structures
+* Higher Order Functions and Closures
 
 *Siguiente commit*: 
 
-* Higher Order Functions and Closures
+* DOM + Event Driven Programming
 
 **NOTA**
 
